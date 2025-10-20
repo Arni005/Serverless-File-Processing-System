@@ -9,7 +9,7 @@ table = dynamodb.Table('FileUploads')
 
 # SNS client
 sns = boto3.client('sns')
-SNS_TOPIC_ARN = os.environ['SNS_TOPIC_ARN']
+SNS_TOPIC_ARN = os.environ['SNS_TOPIC_ARN']# use environment variables
 
 
 def lambda_handler(event, context):
