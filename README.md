@@ -20,7 +20,7 @@ Whenever a file is uploaded to an S3 bucket, a Lambda function is triggered that
 
 ## 🧩 Architecture Diagram
 
-![Alt text](images/Gemini_Generated_Image_a0t2cha0t2cha0t2.png)
+![Alt text](Gemini_Generated_Image_a0t2cha0t2cha0t2.png)
 
 
 ---
